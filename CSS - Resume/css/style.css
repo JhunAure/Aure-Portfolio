@@ -1,0 +1,148 @@
+body {
+  background-color: #d2fafb;
+  color: #2c003e;
+  font-family: 'Montserrat', sans-serif;
+  margin: 0px;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 5rem;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  padding-top: 10%;
+}
+
+h2 {
+  font-family: 'Montserrat', cursive;
+  font-size: 2rem;
+  font-weight: normal;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+h3 {
+  font-size: 1.2rem;
+  font-weight: normal;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+hr {
+  border-width: 10px;
+  border-style: dotted none none;
+  margin: 150px auto;
+  width: 10%;
+}
+
+p{
+  line-height: 2;
+}
+
+a{
+  color: #2c003e;
+  text-decoration: none;
+}
+
+a:hover{
+    color: white;
+}
+
+.header-container {
+  background-color: #51dacf;
+  position: relative;
+}
+
+.name-intro, .title-intro {
+  top: 35%;
+}
+
+.cloud1 {
+  bottom: 90px;
+  height: auto;
+  right: 60%;
+  position: absolute;
+  width: 15%;
+}
+
+.cloud2 {
+  bottom: 130px;
+  height: auto;
+  right: 20%;
+  position: absolute;
+  width: 15%;
+}
+
+.mountain {
+  width: 71%;
+}
+
+.profile-image {
+  height: auto;
+  margin-top: 100px;
+  width: 10%;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+}
+
+.programming-image {
+  float: left;
+  height: auto;
+  margin-right: 50px;
+  width: 25%;
+}
+
+.gamedevelopment-image {
+  float: right;
+  height: auto;
+  margin-left: 50px;
+  width: 25%;
+}
+
+.graphicdesign-image {
+  float: left;
+  height: auto;
+  margin-right: 50px;
+  width: 25%;
+}
+
+.contact-image {
+  height: auto;
+  width: 10%
+}
+
+.bottom-container{
+    background-color: #51dacf;
+    padding: 50px 0;
+}
+
+.footer-link{
+  padding: 0 10px;
+}
+
+.btn{
+  background-color: none;
+  color: #2c003e;
+  font-size: 2rem;
+  padding: 10px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.contact-me{
+  padding-bottom: 50px;
+}
+
+.copyright{
+  color: white;
+  font-size: 0.70rem;
+}
