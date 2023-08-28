@@ -1,2 +1,2 @@
-# PracticeWebDevelopment
-This is a practice web CV
+# Game Development Portfolio
+This is my Game Development journey
